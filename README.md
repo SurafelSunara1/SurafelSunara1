@@ -9,10 +9,10 @@ I'm an noob full-stack developer and content creator building my version of the 
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCw4fKjxd8fW4sqQ1j4xDyMw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/SuraTutor">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCw4fKjxd8fW4sqQ1j4xDyMw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/Surafel-Sunara?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Surafel-Sunara?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Surafel-Sunara?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Surafel-Sunara?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/surafel-sunara?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/surafel-sunara?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/surafel-sunara?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/surafel-sunara?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -56,7 +56,7 @@ I'm an noob full-stack developer and content creator building my version of the 
 
 
 <!--
-**Surafel-Sunara/Surafel-Sunara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**surafel-sunara/surafel-sunara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
